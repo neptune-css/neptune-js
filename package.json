@@ -1,0 +1,34 @@
+{
+    "name": "@neptune-css/javascript-api",
+    "version": "0.1.0",
+    "description": "The official vanilla javascript api for Neptune CSS",
+    "main": "index.js",
+    "scripts": {
+        "jsdoc": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neptune-css/javascript-api.git"
+    },
+    "keywords": [
+        "JavaScript",
+        "API",
+        "Neptune",
+        "Neptune",
+        "CSS",
+        "Vanilla",
+        "JS"
+    ],
+    "author": "Colin Grahm (CGWebDev2003)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/neptune-css/javascript-api/issues"
+    },
+    "homepage": "https://github.com/neptune-css/javascript-api#readme",
+    "dependencies": {
+        "@neptune-css/neptune": "^0.8.3"
+    },
+    "devDependencies": {
+        "jsdoc": "^4.0.2"
+    }
+}
