@@ -4,7 +4,7 @@
     "description": "The official vanilla javascript api for Neptune CSS",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "jsdoc": ""
     },
     "repository": {
         "type": "git",
@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/neptune-css/javascript-api#readme",
     "dependencies": {
-        "@neptune-css/neptune": "^0.5.0"
+        "@neptune-css/neptune": "^0.8.3"
     },
     "devDependencies": {
         "jsdoc": "^4.0.2"
