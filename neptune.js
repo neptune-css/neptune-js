@@ -123,6 +123,34 @@ export class Button {
     }
 }
 
+/**
+ * @class Link
+ * @description Create a new Neptune Link
+ * 
+ * @param {any} config Add your configuration
+ * 
+ * parent -> class or id of your target element, when null its document.body
+ * 
+ * text -> content of your Link
+ * 
+ * size -> s, m, l
+ * 
+ * style -> primary, cta, information, success, warning, error
+ * 
+ * title -> add the title
+ * 
+ * href -> add the href
+ * 
+ * @example
+ * const myLink = new Link({
+ *  parent: "#container",
+ *  text: "My Link",
+ *  size: "m",
+ *  style: "primary",
+ *  title: "My Link",
+ *  href: "https://de.wikipedia.org/"
+ * });
+ */
 export class Link {
     constructor(config) {
         // Create Link
