@@ -188,8 +188,8 @@ export class Link {
 }
 
 /**
- * @class Button
- * @description Create a new Neptune Button
+ * @class Spinner
+ * @description Create a new Neptune Spinner
  * 
  * @param {any} config Add your configuration
  * 
