@@ -123,3 +123,38 @@ export class Button {
     }
 }
 
+export class Link {
+    constructor(config) {
+        // Create Link
+        const newLink = document.createElement('a');
+        newLink.classList.add('link');
+        newLink.innerText = config.text;
+
+        // Setup Size
+        if (config.size != null) {
+            newLink.classList.add('link-' + config.size);
+        }
+
+        // Setup Style
+        if (config.style != null) {
+            newLink.classList.add('link-' + config.style);
+        }
+
+        // Setup title
+        if (config.title != null) {
+            newLink.title = config.title;
+        }
+
+        // Setup href
+        if (config.href != null) {
+            newLink.href = config.href;
+        }
+
+        // Append to parent element
+        if (config.parent != null) {
+            document.querySelector(config.parent).appendChild(newLink);
+        } else {
+            document.body.appendChild(newLink);
+        }
+    }
+}
