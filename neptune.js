@@ -19,6 +19,7 @@
  *  size: "m",
  *  style: "primary"
  * });
+ * 
  */
 export class Badge {
     constructor(config) {
@@ -46,3 +47,4 @@ export class Badge {
         }
     }
 }
+
