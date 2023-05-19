@@ -14,3 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Badge class
 - Button class
 - Link class
+- Spinner class
+- Toast class
