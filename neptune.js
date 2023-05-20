@@ -58,13 +58,13 @@ export class Badge {
  * 
  * text -> content of your Button
  * 
- * icon -> add the i tagof your icon
+ * icon -> add the i tag of your icon
  * 
  * iconPosition -> left or right
  * 
  * size -> s, m, l
  * 
- * style -> primary, cta, information, success, warning, error
+ * style -> primary, secondary, cta, information, success, warning, error
  * 
  * @example
  * const myButton = new Button({
@@ -135,7 +135,7 @@ export class Button {
  * 
  * size -> s, m, l
  * 
- * style -> primary, cta, information, success, warning, error
+ * style -> primary, accent, information, success, warning, error
  * 
  * title -> add the title
  * 
@@ -195,7 +195,7 @@ export class Link {
  * 
  * parent -> class or id of your target element, when null its document.body
  * 
- * style -> primary, cta, information, success, warning, error
+ * style -> primary, accent, information, success, warning, error
  * 
  * animation -> linnear, eased
  * 
@@ -251,7 +251,7 @@ export class Spinner {
  * 
  * text -> add your message text
  * 
- * style -> primary, cta, information, success, warning, error
+ * style -> primary, accent, information, success, warning, error
  * 
  * position -> left-top, left-bottom, right-top, right-bottom
  * 
@@ -322,7 +322,7 @@ export class Toast {
  * 
  * size -> xs, s, m, l, xl
  * 
- * style -> primary, cta, information, success, warning, error
+ * style -> primary, accent, information, success, warning, error
  * 
  * progress -> set the progress of the par width a number
  * 
