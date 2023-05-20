@@ -1,6 +1,6 @@
 {
     "name": "neptunecss-js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The official vanilla javascript api for Neptune CSS",
     "main": "index.js",
     "scripts": {
