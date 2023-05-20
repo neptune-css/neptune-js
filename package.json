@@ -26,6 +26,6 @@
     },
     "homepage": "https://neptunecss.org",
     "dependencies": {
-        "@neptune-css/neptune": "^0.8.3"
+        "@neptunecss": "^1.0.0"
     }
 }
