@@ -1,5 +1,5 @@
 {
-    "name": "@neptune-css/javascript-api",
+    "name": "@neptune-css/neptune-js",
     "version": "0.1.0",
     "description": "The official vanilla javascript api for Neptune CSS",
     "main": "index.js",
