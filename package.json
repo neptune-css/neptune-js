@@ -22,7 +22,7 @@
     "author": "Colin Grahm (CGWebDev2003)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/neptune-css/javascript-api/issues"
+        "url": "https://github.com/neptune-css/neptune-js/issues"
     },
     "homepage": "https://neptunecss.org",
     "dependencies": {
