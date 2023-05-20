@@ -24,11 +24,8 @@
     "bugs": {
         "url": "https://github.com/neptune-css/javascript-api/issues"
     },
-    "homepage": "https://github.com/neptune-css/javascript-api#readme",
+    "homepage": "https://neptunecss.org",
     "dependencies": {
         "@neptune-css/neptune": "^0.8.3"
-    },
-    "devDependencies": {
-        "jsdoc": "^4.0.2"
     }
 }
