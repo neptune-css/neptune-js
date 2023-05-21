@@ -16,7 +16,7 @@ npm i neptunecss-js
 
 ### CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/neptunecss-js@[VERSION]/neptune.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/neptunecss-js@latest/neptune.min.js"></script>
 ```
 
 #### Example
@@ -29,7 +29,7 @@ npm i neptunecss-js
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Import neptune ui -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/neptunecss@[VERSION]/neptune.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/neptunecss@latest/neptune.min.css">
         
         <title>Neptune example</title>
     </head>
@@ -37,13 +37,13 @@ npm i neptunecss-js
         <!-- Your Content -->
         
         <!-- Import Neptune JS -->
-        <script src="https://cdn.jsdelivr.net/npm/neptunecss-js@[VERSION]/neptune.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/neptunecss-js@latest/neptune.min.js"></script>
     </body>
 </html>
 ```
 
 ## Documentation
-You can read the docs [here](http://neptunecss.org).
+You can read the docs [here](https://neptune-css.gitbook.io/neptune-css-docs/neptune-js).
 
 ## Snippets Extension
 Download it in [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=NeptuneCSS.neptunecss-snippets) or checkout on [GitHub](https://github.com/neptune-css/neptune-snippets).
