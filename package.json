@@ -4,6 +4,7 @@
     "description": "The official vanilla javascript api for Neptune CSS",
     "main": "index.js",
     "scripts": {
+        "test": "",
         "jsdoc": "C:/Users/colin/AppData/Roaming/npm/jsdoc",
         "jsdocConfig": "C:/Users/colin/AppData/Roaming/npm/jsdoc -c ./jsdoc.conf.json",
         "jsdPackage": "C:/Users/colin/AppData/Roaming/npm/jsdoc --package ./package.json"
