@@ -1,10 +1,12 @@
 {
     "name": "neptunecss-js",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "The official vanilla javascript api for Neptune CSS",
     "main": "index.js",
     "scripts": {
-        "jsdoc": ""
+        "jsdoc": "C:/Users/colin/AppData/Roaming/npm/jsdoc",
+        "jsdocConfig": "C:/Users/colin/AppData/Roaming/npm/jsdoc -c ./jsdoc.conf.json",
+        "jsdPackage": "C:/Users/colin/AppData/Roaming/npm/jsdoc --package ./package.json"
     },
     "repository": {
         "type": "git",
