@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "$badges": ["src/badge.js"],
+        "$buttons": ["src/button.js"],
+        "$link": ["src/link.js"],
+        "$progressbar": ["src/progressBar.js"],
+        "$spinner": ["src/spinner.js"],
+        "$toasts": ["src/toast.js"]
+      }
+    },
+    "include": ["src/**/*.js"],
+    "exclude": ["node_modules", "**/node_modules", "dist"]
+  }
