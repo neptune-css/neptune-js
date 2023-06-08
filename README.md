@@ -19,7 +19,31 @@ npm i neptunecss-js
 <script src="https://cdn.jsdelivr.net/npm/neptunecss-js@latest/neptune.min.js"></script>
 ```
 
-#### Example
+### Import
+
+There are two ways to import Neptune JS. The first way is a namespaced import. Copy the following line into your file.
+
+```javascript
+import * as NeptuneJS from "path/to/package/neptune.min.js"
+```
+
+Now you have to write NeptuneJS. before every class of Neptune JS like:
+
+```javascript
+const myBadge = new NeptuneJS.Badge({
+    text: "default badge",
+    size: "m",
+    style: "primary"
+});
+```
+
+The second way to import Neptune JS is to import only the components you need.
+
+```javascript
+import { Badge, Spinner, Toast } from "path/to/package/neptune.min.js"
+```
+
+### Example
 ```html
 <!DOCTYPE html>
 <html lang="en">
