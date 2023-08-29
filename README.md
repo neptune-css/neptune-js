@@ -8,7 +8,7 @@
 
 ## Install
 
-### NMP
+### NPM
 Copy the following Code to install the [npm package](https://www.npmjs.com/package/neptunecss-js).
 ```
 npm i neptunecss-js
